@@ -3,6 +3,10 @@
 SortifyPro is a GUI-based C# application designed to analyze and compare the performance of various **parallel sorting algorithms**.  
 It provides insights into **execution time, speedup, and efficiency**, helping understand how modern systems handle large-scale data sorting.
 
+
+> **Note:** This repository contains the initial version of SortifyPro. The original full implementation was lost, 
+> but this version still showcases the core idea, design, and features of the project.
+
 ---
 
 ## Features
