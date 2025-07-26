@@ -12,6 +12,14 @@ It provides insights into **execution time, speedup, and efficiency**, helping u
 - Real-time display of **execution time, speedup, and efficiency**
 - Visual **graphs** for analyzing algorithm performance
 
+
+![Image](https://github.com/user-attachments/assets/4ccf72ba-53e9-44d5-ac65-cce98bfe62b5)
+
+![Image](https://github.com/user-attachments/assets/83b5b694-c0cc-4fc9-9cd0-67701532e02a)
+
+![Image](https://github.com/user-attachments/assets/e637cc98-c9a0-429b-a76d-b2e46d11a166)
+
+![Image](https://github.com/user-attachments/assets/5b3aa5bc-2c96-4bd8-80b0-73fbf9754eda)
 ---
 
 ## Tech Stack
